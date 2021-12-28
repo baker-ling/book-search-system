@@ -1,4 +1,4 @@
-# Book Search System [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# Book Search System
 
 ## Description
 
@@ -9,7 +9,6 @@ A book-search app, refactored from a RESTful API to GraphQL with ApolloServer an
 - [Installation](#installation)
 - [Usage](#usage)
 - [Questions](#questions)
-- [License](#license)
 
 ## Installation
 
@@ -63,7 +62,3 @@ If you have any questions, feel free to reach out via one of the following:
 
 - Email: [brian.baker.bdb@gmail.com](mailto:brian.baker.bdb@gmail.com)
 - Github: @baker-ling
-
-## License
-
-This application is distributed under the terms of [GNU Affero General Public License v3.0](./LICENSE).
